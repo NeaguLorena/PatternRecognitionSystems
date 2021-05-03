@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ImageProcessing" targetName="ImageProcessing" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9468dd0d-e20b-46c0-9d75-efddfc967607" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z4ls4xQeT0iTfAgluMkujKSlyE" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cmake-build-debug" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmake-build-debug" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmake-build-debug" />
+      <recent name="$PROJECT_DIR$/cmake-build-release/CMakeFiles" />
+      <recent name="$PROJECT_DIR$/cmake-build-release" />
+      <recent name="$PROJECT_DIR$/cmake-build-debug/Images" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ImageProcessing" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ImageProcessing" TARGET_NAME="ImageProcessing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ImageProcessing" RUN_TARGET_NAME="ImageProcessing">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9468dd0d-e20b-46c0-9d75-efddfc967607" name="Default Changelist" comment="" />
+      <created>1584106450656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584106450656</updated>
+      <workItem from="1584106452198" duration="776000" />
+      <workItem from="1584112511112" duration="9423000" />
+      <workItem from="1584128765142" duration="122000" />
+      <workItem from="1584479006138" duration="38000" />
+      <workItem from="1584479120435" duration="101000" />
+      <workItem from="1584479283156" duration="255000" />
+      <workItem from="1589058713954" duration="157000" />
+      <workItem from="1589061901919" duration="295000" />
+      <workItem from="1589121382531" duration="3802000" />
+      <workItem from="1589208495640" duration="18421000" />
+      <workItem from="1589293106817" duration="2401000" />
+      <workItem from="1589361686974" duration="7515000" />
+      <workItem from="1589373099399" duration="4245000" />
+      <workItem from="1590093278140" duration="2141000" />
+      <workItem from="1590095546784" duration="12437000" />
+      <workItem from="1590243390247" duration="2269000" />
+      <workItem from="1590394255069" duration="2096000" />
+      <workItem from="1590511201125" duration="184000" />
+      <workItem from="1590663590163" duration="222000" />
+      <workItem from="1602624804091" duration="1346000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

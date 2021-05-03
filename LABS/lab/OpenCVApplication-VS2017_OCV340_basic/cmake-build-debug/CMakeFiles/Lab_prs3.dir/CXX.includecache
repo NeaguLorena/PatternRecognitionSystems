@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lorenaneagu/Year4Sem1/PRS/LABS/lab/OpenCVApplication-VS2017_OCV340_basic/OpenCVApplication-8.cpp
+iostream
+-
+fstream
+-
+

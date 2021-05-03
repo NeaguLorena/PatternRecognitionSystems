@@ -1,0 +1,6 @@
+/Users/lorenaneagu/Year4Sem1/PRS/LABS/lab/OpenCVApplication-VS2017_OCV340_basic/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lorenaneagu/Year4Sem1/PRS/LABS/lab/OpenCVApplication-VS2017_OCV340_basic/cmake-build-debug/CMakeFiles/Lab_prs3.dir
+/Users/lorenaneagu/Year4Sem1/PRS/LABS/lab/OpenCVApplication-VS2017_OCV340_basic/cmake-build-debug/CMakeFiles/Lab_prs2.dir
+/Users/lorenaneagu/Year4Sem1/PRS/LABS/lab/OpenCVApplication-VS2017_OCV340_basic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lorenaneagu/Year4Sem1/PRS/LABS/lab/OpenCVApplication-VS2017_OCV340_basic/cmake-build-debug/CMakeFiles/Lab_prs1.dir
+/Users/lorenaneagu/Year4Sem1/PRS/LABS/lab/OpenCVApplication-VS2017_OCV340_basic/cmake-build-debug/CMakeFiles/Lab_prs.dir
